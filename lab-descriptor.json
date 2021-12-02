@@ -96,5 +96,5 @@
   },
   "exp_name": "16S Ribosomal RNA Sequencing",
   "exp_short_name": "ribosomal-rna-sequencing",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }
