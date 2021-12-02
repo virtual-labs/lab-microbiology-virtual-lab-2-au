@@ -1,93 +1,100 @@
 {
-    "broadArea": {
-        "name": "Biotechnology and Biomedical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
-                 },
-    "lab": "Microbiology Virtual Lab II",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "AMRT",
-    "baseUrl": "mbv2-au.vlabs.ac.in",
-    "introduction": "The study of microorganisms, which are unicellular or cell-cluster microscopic organisms. This includes eukaryotes such as fungi and, protists and prokaryotes. Viruses, though not strictly classed as living organisms, are also studied. To study the biochemical properties of microorganisms, the various techniques employed in cultivation of fungi and viruses along with the molecular level analysis of microbial genome. The laboratory course can be further utilized as a self-learning or reference material for life science students.",
-    "experiments": [
-                {
-                 "name": "Voges-Proskauer Test",
-                 "short-name": "voges-proskauer-test",
-                 "repo": "https://github.com/virtual-labs/exp-voges-proskauer-test-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                },
-                {
-                 "name": "Triple Sugar Iron Agar",
-                 "short-name": "triple-sugar-iron-agar",
-                 "repo": "https://github.com/virtual-labs/exp-triple-sugar-iron-agar-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                },
-                {
-                 "name": "Urease Test",
-                 "short-name": "urease-test",
-                 "repo": "https://github.com/virtual-labs/exp-urease-test-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                },
-                {
-                 "name": "Litmus Milk Test",
-                 "short-name": "litmus-milk-test",
-                 "repo": "https://github.com/virtual-labs/exp-litmus-milk-test-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                },
-                {
-                 "name": "Slide Culture Technique for Fungi",
-                 "short-name": "slide-culture-technique",
-                 "repo": "https://github.com/virtual-labs/exp-slide-culture-technique-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                },
-                {
-                 "name": "Bacteriophage Plaque Assay for Phage Titer",
-                 "short-name": "bacteriophage-plaque-assay",
-                 "repo": "https://github.com/virtual-labs/exp-bacteriophage-plaque-assay-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                },
-                {
-                 "name": "Isolation and Identification of Auxotrophic and Drug Resistant Mutants",
-                 "short-name": "drug-resistant-mutants",
-                 "repo": "https://github.com/virtual-labs/exp-drug-resistant-mutants-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                },
-                {
-                 "name": "Isolation and Identification of Two Bacterial Unknowns",
-                 "short-name": "two-bacterial-unknowns",
-                 "repo": "https://github.com/virtual-labs/exp-two-bacterial-unknowns-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                },
-                {
-                 "name": "Routes of Viral Inoculation in Embryonated Eggs",
-                 "short-name": "embryonated-eggs",
-                 "repo": "https://github.com/virtual-labs/exp-embryonated-eggs-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                },
-                {
-                 "name": "16S Ribosomal RNA Sequencing",
-                 "short-name": "ribosomal-rna-sequencing",
-                 "repo": "https://github.com/virtual-labs/exp-ribosomal-rna-sequencing-au",
-                 "tag": "v1.0.0",
-                 "deploy": true
-                }
-            ],
-    "targetAudience": {
-        "UG": ["B.Tech./ B.E in Biotechnology"],
-        "PG": ["PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
+  "broadArea": {
+    "name": "Biotechnology and Biomedical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+  },
+  "lab": "Microbiology Virtual Lab II",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "AMRT",
+  "baseUrl": "mvii-au.vlabs.ac.in",
+  "introduction": "The study of microorganisms, which are unicellular or cell-cluster microscopic organisms. This includes eukaryotes such as fungi and, protists and prokaryotes. Viruses, though not strictly classed as living organisms, are also studied. To study the biochemical properties of microorganisms, the various techniques employed in cultivation of fungi and viruses along with the molecular level analysis of microbial genome. The laboratory course can be further utilized as a self-learning or reference material for life science students.",
+  "experiments": [
+    {
+      "name": "Voges-Proskauer Test",
+      "short-name": "voges-proskauer-test",
+      "repo": "https://github.com/virtual-labs/exp-voges-proskauer-test-au",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "objective": "To introduce and demonstrate the principle and experimental setup of the gradient plate technique replica plating technique for the isolation auxotrophic mutants</br></br>To introduce and demonstrate various steps involved in the identification of a bacterial unknowns from a mixed culture of organism.</br></br>To study the different routes of inoculating virus in the embryonated eggs.</br></br>To introduce the principle of ELISA and its application in diagnostics and the different types of ELISAs possible</br></br>To introduce and demonstrate basic principles and techniques behind the molecular level analysis of 16S Ribosomal RNA of bacteria</br></br>To introduce and demonstrate the principle and experimental set up for determining the microbe’s ability to transform milk substrate to metabolic end products",
-    "courseAlignment": {
-        "description": "",
-        "universities": ["(1) UG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science","(2) PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science","(3) B.Tech./ B.E in Biotechnology"]
+    {
+      "name": "Triple Sugar Iron Agar",
+      "short-name": "triple-sugar-iron-agar",
+      "repo": "https://github.com/virtual-labs/exp-triple-sugar-iron-agar-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Urease Test",
+      "short-name": "urease-test",
+      "repo": "https://github.com/virtual-labs/exp-urease-test-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Litmus Milk Test",
+      "short-name": "litmus-milk-test",
+      "repo": "https://github.com/virtual-labs/exp-litmus-milk-test-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Slide Culture Technique for Fungi",
+      "short-name": "slide-culture-technique",
+      "repo": "https://github.com/virtual-labs/exp-slide-culture-technique-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Bacteriophage Plaque Assay for Phage Titer",
+      "short-name": "bacteriophage-plaque-assay",
+      "repo": "https://github.com/virtual-labs/exp-bacteriophage-plaque-assay-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Isolation and Identification of Auxotrophic and Drug Resistant Mutants",
+      "short-name": "drug-resistant-mutants",
+      "repo": "https://github.com/virtual-labs/exp-drug-resistant-mutants-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Isolation and Identification of Two Bacterial Unknowns",
+      "short-name": "two-bacterial-unknowns",
+      "repo": "https://github.com/virtual-labs/exp-two-bacterial-unknowns-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Routes of Viral Inoculation in Embryonated Eggs",
+      "short-name": "embryonated-eggs",
+      "repo": "https://github.com/virtual-labs/exp-embryonated-eggs-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "16S Ribosomal RNA Sequencing",
+      "short-name": "ribosomal-rna-sequencing",
+      "repo": "https://github.com/virtual-labs/exp-ribosomal-rna-sequencing-au",
+      "tag": "v1.0.0",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["B.Tech./ B.E in Biotechnology"],
+    "PG": ["PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
+  },
+  "objective": "To introduce and demonstrate the principle and experimental setup of the gradient plate technique replica plating technique for the isolation auxotrophic mutants</br></br>To introduce and demonstrate various steps involved in the identification of a bacterial unknowns from a mixed culture of organism.</br></br>To study the different routes of inoculating virus in the embryonated eggs.</br></br>To introduce the principle of ELISA and its application in diagnostics and the different types of ELISAs possible</br></br>To introduce and demonstrate basic principles and techniques behind the molecular level analysis of 16S Ribosomal RNA of bacteria</br></br>To introduce and demonstrate the principle and experimental set up for determining the microbe’s ability to transform milk substrate to metabolic end products",
+  "courseAlignment": {
+    "description": "",
+    "universities": [
+      "(1) UG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science",
+      "(2) PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science",
+      "(3) B.Tech./ B.E in Biotechnology"
+    ]
+  },
+  "exp_name": "16S Ribosomal RNA Sequencing",
+  "exp_short_name": "ribosomal-rna-sequencing",
+  "version": "v0.2.0"
 }
