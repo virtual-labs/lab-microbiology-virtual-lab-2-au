@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Biotechnology and Biomedical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+    "code": "BIO"
   },
   "lab": "Microbiology Virtual Lab II",
+  "lab_display_name": "Microbiology Virtual Lab II",
   "deployLab": true,
   "phase": 2,
   "collegeName": "AMRT",
@@ -93,8 +95,5 @@
       "(2) PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science",
       "(3) B.Tech./ B.E in Biotechnology"
     ]
-  },
-  "exp_name": "16S Ribosomal RNA Sequencing",
-  "exp_short_name": "ribosomal-rna-sequencing",
-  "version": "v0.3.0"
+  }
 }
